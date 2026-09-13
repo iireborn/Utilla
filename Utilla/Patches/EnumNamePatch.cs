@@ -1,5 +1,3 @@
-﻿// https://github.com/developer9998/Utilla/pull/9/changes/8508d580682da5db1d1dae91b13e4591962832d5
-
 using GorillaGameModes;
 using HarmonyLib;
 using System;
